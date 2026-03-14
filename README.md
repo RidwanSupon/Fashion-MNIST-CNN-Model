@@ -65,7 +65,7 @@ These steps help improve the generalization capability of the model.
 
 ## Model Architecture
 <p align="center">
-  <img src="MNist.jpg" alt="CNN Architecture" width="700"/>
+  <img src="MNist.jpg" alt="CNN Architecture" width="300"/>
 </p>
 
 ---
@@ -130,13 +130,13 @@ These plots help analyze model learning behavior and detect overfitting.
 ## Model Accuracy
 
 <p align="center">
-  <img src="Mnist_accuracy.png" alt="CNN Architecture" width="700"/>
+  <img src="Mnist_Model_accuracy.png" alt="CNN Architecture" width="300" height="500"/>
 </p>
 
 
 ## Confusion Matrix
 
 <p align="center">
-  <img src="Mnist_confusion.png" alt="CNN Architecture" width="700"/>
+  <img src="confusion_=matrix_Mnist.png" alt="CNN Architecture" width="700"/>
 </p>
 
