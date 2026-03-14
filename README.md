@@ -64,11 +64,8 @@ These steps help improve the generalization capability of the model.
 ---
 
 ## Model Architecture
-
-## Model Architecture
-
 <p align="center">
-  <img src="Mnist.jpg" alt="CNN Architecture" width="700"/>
+  <img src="MNist.jpg" alt="CNN Architecture" width="700"/>
 </p>
 
 ---
